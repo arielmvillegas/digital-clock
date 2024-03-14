@@ -5,6 +5,8 @@ ________________________________________________________________
 Here's an excellent project for beginners: we'll construct a digital analog clock that displays the time in military format, showing hours, minutes, and seconds. I'll provide step-by-step comments
 that will guide you through the process of creating your own!
 
+________________________________________________________________
+
 💻 Technologies:
 - HTML
 - CSS
